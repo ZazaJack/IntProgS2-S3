@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/rzahi/OneDrive/Escritorio/IntProG2 VSC",
-      "program": "c:/Users/rzahi/OneDrive/Escritorio/IntProG2 VSC/build/Debug/outDebug",
+      "cwd": "c:/Users/rzahi/OneDrive/Escritorio/IntProG2_VSC",
+      "program": "c:/Users/rzahi/OneDrive/Escritorio/IntProG2_VSC/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
